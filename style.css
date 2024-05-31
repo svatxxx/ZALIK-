@@ -1,0 +1,37 @@
+.ktm_logo{
+    width: 900px;
+    height: 300px;
+}
+body{
+    background-image: url(./1674556046_celes-club-p-cherno-serie-oboi-na-telefon-vkontakte-1.jpg);
+}
+header{
+    background-color: black;
+    height: 100px;
+}
+h1{
+    color: rgb(242, 239, 239);
+}
+button{
+    border: 20px double black
+
+    
+}
+img{
+    width: 450px;
+    height: 400px;
+    padding: 30px;
+    margin: 10px;
+}
+   
+a{
+    color: white;
+}
+footer{
+     background-color: rgb(255, 252, 252);
+    height: 100px; 
+}
+p{
+    color: rgb(6, 6, 6);
+}
+
